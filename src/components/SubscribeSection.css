@@ -1,0 +1,35 @@
+.subscribe-section {
+    background-color: #071d35;
+    padding: 40px 0;
+    text-align: center;
+    border-top: 1px solid #ddd;
+    margin-top: 30px;
+}
+
+.subscribe-section h3 {
+    color: white;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.subscribe-section input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 60%;
+    max-width: 400px;
+    margin-right: 10px;
+}
+
+.subscribe-section button {
+    padding: 10px 20px;
+    background-color: #242558;
+    color: white;
+    border: white;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.subscribe-section button:hover {
+    background-color: #e0e0e0;
+}
